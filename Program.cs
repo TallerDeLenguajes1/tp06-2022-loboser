@@ -36,6 +36,5 @@ namespace tp06
             estadoCivil = EstadoCivil;
             genero = Genero;
         }
-    
     }
 }
