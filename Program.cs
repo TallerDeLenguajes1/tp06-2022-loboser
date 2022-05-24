@@ -28,7 +28,9 @@ namespace tp06
         double sueldoBasico;
         cargos cargo;
 
-        
-        
+        public Empleado(string Nombre, string Apellido, DateTime FechaDeNacimiento, DateTime FechaDeIngreso, char EstadoCivil, char Genero, double SueldoBasico, cargos Cargo){
+            
+        }
+    
     }
 }
